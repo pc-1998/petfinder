@@ -2,7 +2,7 @@
 A single-page application (SPA) that helps people find pets to adopt!
 
 **Overview**:
-- Most of code within: ```App.js```, ```FetchData.js```, ```ValidationForm.js```
+- Most of the code is within: ```App.js```, ```FetchData.js```, ```ValidationForm.js```
 - To run the code, you need to obtain a token from https://www.petfinder.com/developers/, and assign it to ```const token``` in ```ValidationForm.js```
 - Note that the token expires in 1 hour, after which you need to obtain a new one
 
